@@ -344,14 +344,18 @@ body {
 }
 
 .footer-icon {
-  font-size: 2em;
+  font-size: 3em;
   /*padding-bottom: 15px;*/
-  padding: 0 15px 10px 10px;
   color: white;
 }
 
 .footer-icon a, a:hover{
   color: white;
+
+}
+
+.footer-icon a {
+  padding: 0 0px 40px 40px;
 }
 
 .support-icon {
