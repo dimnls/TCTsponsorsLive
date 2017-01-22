@@ -343,6 +343,14 @@ body {
   font-size: 3em;
 }
 
+.footer-icon {
+  font-size: 2em;
+  /*padding-bottom: 15px;*/
+  padding: 0 15px 10px 10px;
+  color: white;
+}
+
+
 .support-icon {
   font-size: 5em;
 }
