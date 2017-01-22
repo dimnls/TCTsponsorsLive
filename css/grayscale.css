@@ -350,6 +350,9 @@ body {
   color: white;
 }
 
+.footer-icon a, a:hover{
+  color: white;
+}
 
 .support-icon {
   font-size: 5em;
